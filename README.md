@@ -2,7 +2,7 @@
 
 
 特别注明：
-rec_models中模型文件非原创，他们来自：
+rec_models中有些模型文件非原创，他们来自：
 
 https://github.com/wzhe06/SparrowRecSys
 
